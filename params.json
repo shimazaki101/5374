@@ -1,0 +1,6 @@
+{
+  "name": "Shimazaki101.GitHub.io",
+  "tagline": "5374(ゴミナシ).jp for 高浜版",
+  "body": "# 5374について\r\nFor English please see [LOCALIZE_en.md](LOCALIZE_en.md).\r\n##「いつ、どのゴミが収集されているのか？」\r\n\r\nゴミの問題はどの地域でも深刻になりつつあります。\r\n [Code for Kanazawa](http://codeforkanazawa.org/)\r\nでは、先ずは正しいゴミの捨て方に注目しました。例えばお引っ越しをされた場合、このアプリを使えばすぐに分かるように、目的と使い方をとてもシンプルにデザインしました。\r\n\r\n## ブランチの運用について\r\n\r\n* **master**: ローカライズをする場合にはこのブランチをforkしてください (2014/5/7 updated v1.1)\r\n* **kanazawa**: 5374の金沢バージョン\r\n* **gh-pages**: 5374の金沢バージョンリリースブランチ\r\n* **dev**: 今後kanazawaへ適用予定の開発ブランチ\r\n\r\n## 使い方について\r\n\r\n[HOWTOUSE.md](HOWTOUSE.md)に5374標準の文章を用意してあるので、書き換えて使ってください。\r\n\r\n## ローカライズについて\r\n\r\n各地域へのローカライズについては[LOCALIZE.md](LOCALIZE.md)を参照するようにしてください。\r\n\r\n\r\n\r\n\r\n## 開発チームとライセンスについて\r\n- 小野 祐貴(Yuki ONO)　Developer\r\n- 五十川 員申(Kazunobu IKAGAWA)　Developer\r\n- 高木 志宗(Yukimune TAKAGI)　Developer\r\n- 宮田 人司(Hotoshi MIYATA)　Designer\r\n\r\n本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。\r\n但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
